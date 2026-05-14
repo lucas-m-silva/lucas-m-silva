@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Mendes! 👋
 
-Sou bacharel em **Ciência da Computação** com especializações em **Análise de Dados** e **Inteligência Analítica & Ciência de Dados**. Atualmente, trabalho na SEPLAN-PI, onde foco em transformar dados geográficos e administrativos em inteligência estratégica através de automação e visualização.
+Sou bacharel em **Ciência da Computação** com especializações em **Inteligência Analítica & Ciência de Dados**. Atualmente, trabalho na SEPLAN-PI, onde foco em transformar dados geográficos e administrativos em inteligência estratégica através de automação e visualização.
 
 ---
 
