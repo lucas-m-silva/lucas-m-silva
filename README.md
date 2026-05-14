@@ -33,7 +33,7 @@ Sou bacharel em **Ciência da Computação** com especializações em **Análise
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-m-silva&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-m-silva&theme=tokyonight" />
 </p>
 
 ---
