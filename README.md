@@ -33,12 +33,8 @@ Sou bacharel em **Ciência da Computação** com especializações em **Análise
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/lucas-m-silva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-m-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Lucas Mendes" />
-  </a>
-  <a href="https://github.com/lucas-m-silva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-m-silva&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
-  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-m-silva&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=lucas-m-silva&theme=tokyonight" />
 </p>
 
 ---
