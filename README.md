@@ -13,6 +13,18 @@ Sou bacharel em **Ciência da Computação** com especializações em **Análise
 
 ---
 
+### 📁 Projetos Oficiais em Destaque (SEPLAN-PI)
+
+* **⚡ Observatório de Energias Renováveis:** Mapa interativo para monitoramento do potencial elétrico do Piauí.
+    * **Tecnologias:** QGIS, Leaflet.
+    * [Acessar Observatório](https://dados.pi.gov.br/observatorio/energias-renovaveis/) | [Visualizar Mapa Direto](https://mapas.dados.seplan.pi.gov.br/geoeletrico/)
+* **⛏️ Sistema de Monitoramento de Mineração:** Solução geoespacial para visualização de dados minerários estaduais.
+    * **Tecnologias:** QGIS, Leaflet, Automação de Dados.
+    * [Acessar Dados](https://dados.seplan.pi.gov.br/observatorio/dados-mineracao/) | [Visualizar Mapa Direto](https://mapas.dados.seplan.pi.gov.br/mineracao/)
+* **🤖 Automação SIGMINE (Engenharia de Dados):** Pipeline em Airflow e Docker para extração automática de dados, geração de alertas de prazos e relatórios em PDF.
+
+---
+
 ### 🛠 Tecnologias e Ferramentas
 
 - **Linguagens:** Python, SQL, JavaScript (ES6+).
@@ -20,13 +32,6 @@ Sou bacharel em **Ciência da Computação** com especializações em **Análise
 - **DevOps & Cloud:** Docker, Apache Airflow, Google Cloud, Cloudflare.
 - **Geoprocessamento:** QGIS, Leaflet, Georreferenciamento.
 - **Mobile:** React Native.
-
----
-
-### 📁 Projetos em Destaque
-
-* **GIS Interativo:** Dashboards geográficos e mapas dinâmicos integrando dados socioeconômicos e infraestrutura.
-* **Utilidades:** Gerador de QR Codes e sistemas de Quiz personalizados.
 
 ---
 
